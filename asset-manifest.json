@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8be2ca0.css",
-    "main.js": "/static/js/main.81282bee.js",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.280ea1dad95f6f9540b8.jpg",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/me.png": "/static/media/me.588b07f518761c296720.png",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.dfb8cf6381345986de46.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/cv.pdf": "/static/media/cv.cbfb32350a1b3c682ba3.pdf",
-    "static/media/me-about.jpg": "/static/media/me-about.71676bfced93ecd9f70c.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.bd07346f97249e9820b4.jpg",
-    "index.html": "/index.html",
-    "main.b8be2ca0.css.map": "/static/css/main.b8be2ca0.css.map",
-    "main.81282bee.js.map": "/static/js/main.81282bee.js.map"
+    "main.css": "/myportfoliowebsite/static/css/main.b8be2ca0.css",
+    "main.js": "/myportfoliowebsite/static/js/main.effd9553.js",
+    "static/media/portfolio2.jpg": "/myportfoliowebsite/static/media/portfolio2.280ea1dad95f6f9540b8.jpg",
+    "static/media/portfolio5.png": "/myportfoliowebsite/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me.png": "/myportfoliowebsite/static/media/me.588b07f518761c296720.png",
+    "static/media/portfolio3.jpg": "/myportfoliowebsite/static/media/portfolio3.dfb8cf6381345986de46.jpg",
+    "static/media/portfolio6.jpg": "/myportfoliowebsite/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio4.jpg": "/myportfoliowebsite/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/cv.pdf": "/myportfoliowebsite/static/media/cv.cbfb32350a1b3c682ba3.pdf",
+    "static/media/me-about.jpg": "/myportfoliowebsite/static/media/me-about.71676bfced93ecd9f70c.jpg",
+    "static/media/portfolio1.jpg": "/myportfoliowebsite/static/media/portfolio1.bd07346f97249e9820b4.jpg",
+    "index.html": "/myportfoliowebsite/index.html",
+    "main.b8be2ca0.css.map": "/myportfoliowebsite/static/css/main.b8be2ca0.css.map",
+    "main.effd9553.js.map": "/myportfoliowebsite/static/js/main.effd9553.js.map"
   },
   "entrypoints": [
     "static/css/main.b8be2ca0.css",
-    "static/js/main.81282bee.js"
+    "static/js/main.effd9553.js"
   ]
 }
